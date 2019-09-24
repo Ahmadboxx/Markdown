@@ -12,6 +12,12 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
+The term “IDE” comes from Integrated Development Environment. It is intended as a set of tools that all work together: text editor, compiler, build or make integration, debugging, etc. Virtually all IDEs are tied specifically to a language or framework or tightly collected set of languages or frameworks. Some examples: Visual Studio for .NET and other Microsoft languages, RubyMine for Ruby, IntelliJ for Java, XCode for Apple technologies.
+
+A text editor just display plain text in one color (black on white, usually, often with monospaced font), with more or less advanced facilities (search, replace, perhaps with regexes, macros / automation, etc.). A good text editor might be optimized to handle very large files, etc.
+
+A code editor is, of course, able to do all of the above, and more. The "more" part is, unsurprisingly, aimed at editing source code (programs, textual data like Json or XML, etc.).
+
 And upload image
 
 ![Ahmadboxx](https://image.shutterstock.com/image-photo/beautiful-water-drop-on-dandelion-260nw-789676552.jpg)
